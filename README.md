@@ -21,6 +21,11 @@
 
 <h1>GIÁO VIÊN HƯỚNG DẪN</h1>
 <li>
-      Name: Vũ Tuấn Hải - <a href="https://github.com/vutuanhai237/CourseMaterials/commits?author=vutuanhai237">Github</a>
+      Tên giáo viên: Vũ Tuấn Hải - <a href="https://github.com/vutuanhai237/CourseMaterials/commits?author=vutuanhai237">Github</a>
   </li>
 
+<h1>VIDEO DEMO</h1>
+<a href="https://github.com/vutuanhai237/CourseMaterials/commits?author=vutuanhai237">link_video_demo</a>
+
+<h1>MÔ TẢ ỨNG DỤNG</h1>
+<p>Ứng dụng Music Player là một máy phát nhạc đa chức năng, cung cấp trải nghiệm nghe nhạc độc đáo và tiện ích cho người dùng. Với giao diện đẹp mắt và dễ sử dụng, ứng dụng này giúp người dùng tận hưởng âm nhạc yêu thích một cách thuận lợi và thoải mái.</p>
