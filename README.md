@@ -31,7 +31,8 @@
 <p>Ứng dụng Music Player là một máy phát nhạc đa chức năng, cung cấp trải nghiệm nghe nhạc độc đáo và tiện ích cho người dùng. Với giao diện đẹp mắt và dễ sử dụng, ứng dụng này giúp người dùng tận hưởng âm nhạc yêu thích một cách thuận lợi và thoải mái.</p>
 
 <h1>CÁCH SỬ DỤNG ỨNG DỤNG</h1>
-<h2>Cài Đặt .NET SDK:</h2>
 <li>Trước tiên, đảm bảo rằng bạn đã cài đặt .NET SDK trên máy tính của mình. Bạn có thể tải nó từ trang chính thức của .NET.</li>
+<li>Thêm SDK vào bên trong IDE nếu cần, sử dụng IDE clone repository về.</li>
+<li>Mở IDE và chạy ứng dụng và trải nghiệm.</li>
 
 
