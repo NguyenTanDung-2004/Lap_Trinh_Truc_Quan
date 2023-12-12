@@ -1,1 +1,3 @@
-"# Lap_Trinh_Truc_Quan" 
+Trình bày bởi: NHÓM SINH VIÊN UIT.
+CHỦ ĐỀ: MUSIC PLAYER.
+
