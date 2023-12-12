@@ -25,12 +25,13 @@
   </li>
 
 <h1>VIDEO DEMO</h1>
-<a href="https://github.com/vutuanhai237/CourseMaterials/commits?author=vutuanhai237">link_video_demo</a>
+<a href="https://www.youtube.com/watch?v=WzHqZ2CHmdg">link_video_demo</a>
 
 <h1>MÔ TẢ ỨNG DỤNG</h1>
 <p>Ứng dụng Music Player là một máy phát nhạc đa chức năng, cung cấp trải nghiệm nghe nhạc độc đáo và tiện ích cho người dùng. Với giao diện đẹp mắt và dễ sử dụng, ứng dụng này giúp người dùng tận hưởng âm nhạc yêu thích một cách thuận lợi và thoải mái.</p>
 
 <h1>CÁCH SỬ DỤNG ỨNG DỤNG</h1>
-<p>Chỉ cần clone repository này về => chạy code và tận hưởng kết quả của bạn.</p>
+<h2>Cài Đặt .NET SDK:</h2>
+<li>Trước tiên, đảm bảo rằng bạn đã cài đặt .NET SDK trên máy tính của mình. Bạn có thể tải nó từ trang chính thức của .NET.</li>
 
 
