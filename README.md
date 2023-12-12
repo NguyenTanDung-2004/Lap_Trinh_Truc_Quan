@@ -29,3 +29,8 @@
 
 <h1>MÔ TẢ ỨNG DỤNG</h1>
 <p>Ứng dụng Music Player là một máy phát nhạc đa chức năng, cung cấp trải nghiệm nghe nhạc độc đáo và tiện ích cho người dùng. Với giao diện đẹp mắt và dễ sử dụng, ứng dụng này giúp người dùng tận hưởng âm nhạc yêu thích một cách thuận lợi và thoải mái.</p>
+
+<h1>CÁCH SỬ DỤNG ỨNG DỤNG</h1>
+<p>Chỉ cần clone repository này về => chạy code và tận hưởng kết quả của bạn.</p>
+
+
